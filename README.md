@@ -25,7 +25,7 @@
 [![HTML][HTML]][HTML-url]
 [![CSS][CSS]][CSS-url]
 [![JS][JS]][JS-url]
-[![Swiperjs][SwiperJS]][SwiperJS-url]
+[![SwiperJS][SwiperJS]][SwiperJS-url]
 [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 [![FontAwesome][FontAwesome]][FontAwesome-url]
 
@@ -63,6 +63,6 @@ Project Link: [https://github.com/Ang-Kimsor/LEGO](https://github.com/Ang-Kimsor
 [JS]: https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JS-url]: https://www.w3schools.com/js/
 [SwiperJS]: https://img.shields.io/badge/SwiperJS-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-[Swiper-url]: https://swiperjs.com/
+[SwiperJS-url]: https://swiperjs.com/
 [FontAwesome]: https://img.shields.io/badge/FontAwesome-20232A?style=for-the-badge&logo=font-awesome&logoColor=#538DD7
 [FontAwesome-url]: https://fontawesome.com/
