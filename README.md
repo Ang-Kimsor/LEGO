@@ -53,7 +53,7 @@ Follow these steps to run the Explore Trails locally for development or testing.
 
 Project Link: [https://github.com/Ang-Kimsor/LEGO](https://github.com/Ang-Kimsor/LEGO)
 
-[project-screenshot]: assets/images/screenshot.png
+[project-screenshot]: asset/screenshot.png
 [HTML]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26
 [HTML-url]: https://www.w3schools.com/html/
 [CSS]: https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css&logoColor=1572B6
