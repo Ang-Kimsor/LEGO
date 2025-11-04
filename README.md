@@ -1,14 +1,68 @@
-## About The Project 🧱
+<!-- PROJECT LOGO -->
+<div align="center">
+  <a href="https://github.com/Ang-Kimsor/LEGO">
+    <img src="asset/lego_logo.svg" alt="Logo" width="250" height="250">
+  </a>
 
-This project is a clone of the LEGO toy website, built to capture the fun and colorful vibe of the original.  
-You can browse through different toy sets, check out details, and see cool images just like on the real site.  
-It’s designed to feel playful and easy to use, with bright colors and simple navigation.  
-The site works great on phones, tablets, and computers, so you can explore LEGO wherever you are.  
-It’s a fun project for anyone who loves LEGO or wants to practice building interactive, kid-friendly websites.  
-While it doesn’t have a full shopping cart or checkout, it shows how to create a clean and engaging product showcase.  
-Perfect for showcasing your web skills or making a neat portfolio piece with a playful theme.  
-If you grew up loving LEGO or just like building websites that look great and work smoothly, this is a good one to check out!  
-It’s all about recreating that classic LEGO feel with modern tools.  
-Have fun exploring the bricks and sets!
+  <h1 align="center">🧸 Explore Trail 🧸</h1>
+  <p align="center">
+    A fan-inspired Porsche LEGO concept website built as a team project.  
+    This project showcases a premium, modern UI inspired by Porsche design style & LEGO branding.  
+    It highlights LEGO-style Porsche models with clean layouts, animations, and engaging sections.
+    Built using <strong>HTML, CSS, and JavaScript</strong>, the website focuses on visual aesthetics and user experience.
+  </p>
 
-[View Demo](https://lego-wheat.vercel.app/)
+<a href="https://exploretrails.vercel.app/">View Demo</a>
+
+</div>
+
+## About The Project 📖
+
+[![Project Screenshot][project-screenshot]]()
+
+### Tools & Technologies 🛠️
+
+[![HTML][HTML]][HTML-url]
+[![CSS][CSS]][CSS-url]
+[![JS][JS]][JS-url]
+[![SwiperJS][SwiperJS]][SwiperJS-url]
+[![TailwindCSS][TailwindCSS]][TailwindCSS-url]
+[![FontAwesome][FontAwesome]][FontAwesome-url]
+
+## Getting Started 🚀
+
+Follow these steps to run the Explore Trails locally for development or testing.
+
+### Prerequisites ✅
+
+- Modern browser (Chrome, Firefox, Edge, etc.)
+
+### Installation 💾
+
+1. Clone the repository
+
+   ```sh
+    git clone https://github.com/Ang-Kimsor/LEGO.git
+   ```
+
+2. Run the project on your computer and open the url localhost on browser to see the app running.
+
+## Contact 📬
+
+**Ang Kimsor** - [Telegram](https://t.me/Thirtieth_October) - [angkimsor@gmail.com](mailto:angkimsor@gmail.com) - **Call Me ☎️ +85587932289**
+
+Project Link: [https://github.com/Ang-Kimsor/LEGO](https://github.com/Ang-Kimsor/LEGO)
+
+[project-screenshot]: assets/images/screenshot.png
+[HTML]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26
+[HTML-url]: https://www.w3schools.com/html/
+[CSS]: https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css&logoColor=1572B6
+[CSS-url]: https://www.w3schools.com/css/
+[TailwindCSS]: https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC
+[TailwindCSS-url]: https://tailwindcss.com/
+[JS]: https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[JS-url]: https://www.w3schools.com/js/
+[SwiperJS]: https://img.shields.io/badge/SwiperJS-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[Swiper-url]: https://swiperjs.com/
+[FontAwesome]: https://img.shields.io/badge/FontAwesome-20232A?style=for-the-badge&logo=font-awesome&logoColor=#538DD7
+[FontAwesome-url]: https://fontawesome.com/
