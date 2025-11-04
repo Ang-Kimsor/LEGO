@@ -4,15 +4,15 @@
     <img src="asset/lego_logo.svg" alt="Logo" width="250" height="250">
   </a>
 
-  <h1 align="center">🧸 Explore Trail 🧸</h1>
+  <h1 align="center">🧸 LEGO Clone 🧸</h1>
   <p align="center">
-    A fan-inspired Porsche LEGO concept website built as a team project.  
-    This project showcases a premium, modern UI inspired by Porsche design style & LEGO branding.  
-    It highlights LEGO-style Porsche models with clean layouts, animations, and engaging sections.
-    Built using <strong>HTML, CSS, and JavaScript</strong>, the website focuses on visual aesthetics and user experience.
+    A fan-inspired LEGO concept website built as a team project.  
+    This project showcases a premium, modern UI inspired by design style & LEGO branding.  
+    It highlights LEGO-style models with clean layouts, animations, and engaging sections.
+    Built using <strong>HTML, CSS(TailwindCSS), and JavaScript + SwiperJS</strong>, the website focuses on visual aesthetics and user experience.
   </p>
 
-<a href="https://exploretrails.vercel.app/">View Demo</a>
+<a href="https://lego-wheat.vercel.app/">View Demo</a>
 
 </div>
 
