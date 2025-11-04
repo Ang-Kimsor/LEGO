@@ -31,7 +31,7 @@
 
 ## Getting Started 🚀
 
-Follow these steps to run the Explore Trails locally for development or testing.
+Follow these steps to run the LEGO locally for development or testing.
 
 ### Prerequisites ✅
 
