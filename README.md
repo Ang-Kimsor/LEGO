@@ -25,7 +25,7 @@
 [![HTML][HTML]][HTML-url]
 [![CSS][CSS]][CSS-url]
 [![JS][JS]][JS-url]
-[![SwiperJS][SwiperJS]][SwiperJS-url]
+[![Swiperjs][SwiperJS]][SwiperJS-url]
 [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 [![FontAwesome][FontAwesome]][FontAwesome-url]
 
